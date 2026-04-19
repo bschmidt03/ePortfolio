@@ -13,3 +13,12 @@ The artifacts in my ePortfolio represent growth across these areas. My Weight Tr
 [Weight Tracker Original](https://github.com/bschmidt03/ePortfolio/blob/97b7a0e36d35c40190d639985c206f06425b0463/WeightTracker_Original.zip)
 
 [Weight Tracker Enhanced](https://github.com/bschmidt03/ePortfolio/blob/9cb64dc04f3f9dbd542f72ee3e3246873ca260bc/WeightTracker_Enhanced.zip)
+
+## Algorithms and Data Structure
+[Enhancements Overview: Treasure Hunter](https://github.com/bschmidt03/ePortfolio/blob/0cb9fd78a996d465cb89a17defca2bd49ef03f68/Treasure%20Hunter%20-%20%20Algorithms%20and%20Data%20Structure%20-%20Enhancement%20Two.docx)
+
+[Treasure Hunter Original](https://github.com/bschmidt03/ePortfolio/blob/0cb9fd78a996d465cb89a17defca2bd49ef03f68/pirate-intelligent-agent_Original.zip)
+
+[Treasure Hunter Enhanced](https://github.com/bschmidt03/ePortfolio/blob/main/pirate-intelligent-agent_Enhanced.zip)
+
+## Databases
