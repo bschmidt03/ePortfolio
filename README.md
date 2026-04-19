@@ -8,4 +8,4 @@ The artifacts in my ePortfolio represent growth across these areas. My Weight Tr
 ## [Code Review](https://www.youtube.com/watch?v=CUMEeLxqr_o)
 
 ## Software Design and Engineering
-[Enhancement One: Weight Tracker] (*Weight Tracker - Software Design and Engineering - Enhancement One.docx*)
+[Enhancement One: Weight Tracker](Weight Tracker - Software Design and Engineering - Enhancement One.docx)
